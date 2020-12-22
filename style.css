@@ -1,0 +1,160 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+body {
+    margin: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 40px;
+    color:whitesmoke;
+}
+header {
+    padding:20px;
+    background-color: rgb(71, 116, 184);
+}
+
+nav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+nav a {
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    color: white;
+}
+
+nav a:hover {
+    background-color: rgb(139, 182, 38);
+  }
+
+footer {
+    background-color: black;
+    overflow: hidden;
+}  
+
+footer a {
+    text-decoration: darkkhaki;
+    padding:20px;
+    color:darkgrey;
+    text-align: center;
+    float: left;
+}
+#lang
+{
+    background-color: rgb(216, 208, 208);
+}
+main section h1
+{
+    text-align:center;
+    font-size: 300%;
+}
+section img
+{
+    
+    padding-left: 25px;
+    padding-bottom: 10px;
+    
+}
+section h3
+{
+    text-align: right;
+    padding-right: 20px;
+   
+
+}
+.someotheryoutube p
+{
+   text-transform: none;
+   text-align: center;
+   font-family:cursive;
+   font-weight: bolder;
+   font-size: 34px;
+   text-decoration-color: coral;   
+}
+#dsa
+
+{
+    background-color: rgb(228, 177, 177);
+    padding-bottom: 10px;;
+}
+#dsahead
+{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:rgb(78, 69, 69);
+}
+#Prerequsite
+{
+    font-size: 27px;
+    color: white;
+    padding-left: 10px;
+}
+#RESOURCES
+{
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 35px;
+    padding-right:15px;
+}
+#gfg
+{
+    text-overflow: clip;
+    font-size: 29px;
+    padding-left: 10px;
+}
+#gfg1
+{
+    color:green;
+}
+#akvideo
+{
+    padding-left:10px;
+}
+#ak
+{
+    font-weight: bolder;
+    font-variant:normal;
+    font-style: oblique;
+    font-size: 29px;
+    padding-left: 10px;
+}
+#ak1
+{
+    font-size: 29px;
+    padding-left: 10px;
+}
+#CodeChef
+{
+    text-overflow: clip;
+    font-size: 29px;
+    padding-left: 10px;
+}
+#CodeChef1
+{
+    color:brown;
+}
+#note
+{
+    text-align: center;
+    font-size: 21px;
+    color:black;
+}
+#freecourses
+{
+    background-image: linear-gradient(13deg,#8fb2ff, rgb(214, 116, 198));
+}
+#coursera_img
+{
+    width: 13%;
+    border-color: black;
+    border-radius: 10px;
+    
+}
